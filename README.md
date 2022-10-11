@@ -4,9 +4,9 @@
 - 📫 How to reach me:
 > E-mail:    john.dixon@ufl.edu
 >
-> Website:   john-dixon.wixsite.com/home
+> Website:   https://john-dixon.wixsite.com/home
 >
-> LinkedIn:  linkedin.com/in/johndixon01      
+> LinkedIn:  https://linkedin.com/in/johndixon01      
 
 <!---
 johndixon01/johndixon01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
