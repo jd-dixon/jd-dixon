@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 > E-mail:    johndixon@tamu.edu
 >
-> Website:   https://johndixon01.github.io/
+> Website:   https://tx.ag/dixon
 >
 > LinkedIn:  https://linkedin.com/in/johndixon01      
 
