@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @johndixon01
-- 👀 I’m interested in stellar astrophysics, spectrosopy, acoustics, instrument design, and mathematical music theory.
-- 🌱 I’m currently pursuing a triple major in astrophysics, mathematics, and music composition at the University of Florida!
+- 👀 I’m interested in stellar archaeology, nuclear astrophysics, and astronomy education.
+- 🎓 I’m currently pursuing a PhD in Astronomy at Texas A&M University!
+- 🐊 I graduated from the University of Florida in 2023 with a B.S. in Astrophysics & Mathematics and a B.A. in Music Composition.
 - 📫 How to reach me:
-> E-mail:    john.dixon@ufl.edu
+> E-mail:    johndixon@tamu.edu
 >
-> Website:   https://john-dixon.wixsite.com/home
+> Website:   https://johndixon01.github.io/
 >
 > LinkedIn:  https://linkedin.com/in/johndixon01      
 
