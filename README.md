@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @johndixon01
-- 👀 I’m interested in stellar archaeology, nuclear astrophysics, and astronomy education.
+- 👋 Hi, I’m @jd-dixon
+- 👀 I’m an observational astronomer interested in stellar archaeology, nuclear astrophysics, and astronomy education.
 - 🎓 I’m currently pursuing a PhD in Astronomy at Texas A&M University!
 - 🐊 I graduated from the University of Florida in 2023 with a B.S. in Astrophysics & Mathematics and a B.A. in Music Composition.
 - 📫 How to reach me:
